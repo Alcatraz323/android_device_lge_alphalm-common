@@ -23,7 +23,7 @@ COMMON_ALPHALM_PATH := device/lge/alphalm-common
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(COMMON_ALPHALM_PATH)/bluetooth
 
 # Kernel
-TARGET_KERNEL_CONFIG := vendor/alpha_lao_com-perf_defconfig
+TARGET_KERNEL_CONFIG := vendor/lineage_alpha_defconfig
 
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 4336910336
